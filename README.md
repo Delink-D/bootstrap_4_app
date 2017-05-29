@@ -11,4 +11,4 @@ After cloning the project to your local computer. From the root directory:
 
 # External links
 
-For more about Bootstrap:4 visit [Bootstrat:4]:https://v4-alpha.getbootstrap.com
+For more about Bootstrap:4 visit [Bootstrat:4](https://v4-alpha.getbootstrap.com)
