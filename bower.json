@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap_4_app",
+  "homepage": "https://github.com/Delink-D/bootstrap_4_app",
+  "authors": [
+    "Delink-D <delinkdesigns@gmail.com>"
+  ],
+  "description": "Start of bootstrap 4",
+  "main": "index.html",
+  "keywords": [
+    "bootstrap4"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
