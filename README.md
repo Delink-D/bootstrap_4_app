@@ -3,7 +3,7 @@
 It a simple html app build on bootstrap:4.0.0-alpha.6
 The app implements the added features of bootstrap 4.
 
-#To get started
+# To get started
 
 After cloning the project to your local computer. From the root directory: 
 
