@@ -7,7 +7,8 @@ The app implements the added features of bootstrap 4.
 
 After cloning the project to your local computer. From the root directory: 
 
-* Run **$ bower install bootstrap#v4.0.0-alpha.6** 
+	* Run *$ bower install*
+This will install bootstrap:4 and other bower dependencies.
 
 # External links
 
